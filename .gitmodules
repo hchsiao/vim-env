@@ -1,0 +1,15 @@
+[submodule "git_modules/vim-pathogen"]
+	path = git_modules/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "git_modules/nerdtree"]
+	path = git_modules/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "git_modules/taglist"]
+	path = git_modules/taglist
+	url = https://github.com/vim-scripts/taglist.vim
+[submodule "git_modules/vim-airline"]
+	path = git_modules/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "git_modules/vim-colors-solarized"]
+	path = git_modules/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
