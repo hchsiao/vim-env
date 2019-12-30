@@ -43,6 +43,11 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 
+augroup python
+  autocmd!
+  autocmd FileType python setlocal expandtab shiftwidth=2 tabstop=2
+augroup end
+
 " cnoreabbrev run !./run.sh
 " cnoreabbrev impl !./run_impl.sh
 " cnoreabbrev bash !bash
