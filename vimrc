@@ -45,7 +45,7 @@ set expandtab
 
 augroup python
   autocmd!
-  autocmd FileType python setlocal expandtab shiftwidth=2 tabstop=2
+  autocmd FileType python setlocal colorcolumn=79
 augroup end
 
 " cnoreabbrev run !./run.sh
