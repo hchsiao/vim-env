@@ -10,3 +10,6 @@
 [submodule "git_modules/vim-colors-solarized"]
 	path = git_modules/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "git_modules/gruvbox"]
+	path = git_modules/gruvbox
+	url = https://github.com/morhetz/gruvbox.git

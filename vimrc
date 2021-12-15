@@ -1,5 +1,4 @@
 execute pathogen#infect()
-syntax on
 filetype plugin indent on
 
 let g:tex_flavor='latex'
@@ -31,12 +30,12 @@ let g:airline_right_alt_sep = ' '
 "let g:airline_symbols.readonly = ''
 "let g:airline_symbols.linenr = ''
 
-" solarized
+" theme
 syntax enable
 set background=dark                                                                                      
 set t_Co=256
 let g:solarized_termcolors=256
-colorscheme solarized
+colorscheme gruvbox
 
 " tab2space
 set tabstop=2
