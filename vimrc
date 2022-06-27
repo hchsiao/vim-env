@@ -78,3 +78,4 @@ if has("unix")
   endif
 endif
 
+set hidden
